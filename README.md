@@ -1,4 +1,4 @@
-# 💻 Aurora Scola|Page
+# 💻 Aurora Scola | Page
 
 ## 🛠️ Tecnologie utilizzate
 
